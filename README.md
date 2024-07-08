@@ -1,4 +1,9 @@
-![:baoblei](https://count.getloli.com/get/@:baoblei?theme=rule4)
+<div align="center">
+  <a href="https://count.getloli.com/get/@:baoblei?theme=rule4">
+    <img src="https://count.getloli.com/get/@:baoblei?theme=rule4" alt="baoblei">
+  </a>
+</div>
+
 <h1 align="center">Hi 👋, I'm baoblei</h1>
 
 - Master's student at the University of Science and Technology of China
