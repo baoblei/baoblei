@@ -5,6 +5,9 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm baoblei</h1>
+<p align="center">
+  🌐 Visit my blog: [庞贝堡垒](https://baoblei.github.io/)
+</p>
 
 - Master's student at the University of Science and Technology of China
 - Research interests: Computer vision, multimodal LLMs, AIGC, NVS, etc
