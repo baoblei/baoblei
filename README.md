@@ -9,18 +9,56 @@
   🌐 Visit my blog: [庞贝堡垒](https://baoblei.github.io/)
 </p>
 
-- Master's student at the University of Science and Technology of China
-- Research interests: Computer vision, multimodal LLMs, AIGC, NVS, etc
-- My skills: C++/Python programming languages, Pytorch framework, Linux operating system, Vim editing
+
+- I know nothing about MOBA games, but I like some 
+- 👨‍💻 Master student at the University of Science and Technology of China, majoring in CS
+- 💡 Research focus on: cv, LLMs, MLLMs, AIGC, NVS(NeRF/3DGS)
+- 🎧 Enjoys listening to music, with a diverse taste that includes Mandarin, Cantonese, English, Japanese, and instrumental music
+- 📸 Loves photography, cherishing the feeling of capturing the beauty before my eyes
+- 🎮 A gaming enthusiast, clueless about MOBA, but enjoys card games (Hearthstone), 3A (FF) or FPS games (Overwatch)
+
 
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=baoblei" alt="baoblei" /></a> </p>
 
 
-
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> </p>
+<p align="left">
+  <!-- C++ -->
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  </a>
+  <!-- Git -->
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <!-- Linux -->
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>
+  <!-- Python -->
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <!-- PyTorch -->
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+  </a>
+  <!-- Vim -->
+  <a href="https://www.vim.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/>
+  </a>
+  <!-- TensorFlow -->
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  </a>
+  <!-- Hugging Face -->
+  <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/huggingface/logos/main/assets/huggingface_logo.svg" alt="huggingface" width="40" height="40"/>
+  </a>
+</p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=baoblei&show_icons=true&locale=en&layout=compact" alt="baoblei" /></p>
 
