@@ -6,8 +6,9 @@
 
 <h1 align="center">Hi 👋, I'm baoblei</h1>
 <p align="center">
-  🌐 Visit my blog: [庞贝堡垒](https://baoblei.github.io/)
+  🌐 Visit my blog: <a href="https://baoblei.github.io/" target="_blank" rel="noopener noreferrer">庞贝堡垒</a>
 </p>
+
 
 
 - I know nothing about MOBA games, but I like some 
