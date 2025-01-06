@@ -9,17 +9,12 @@
   🌐 Visit my blog: <a href="https://baoblei.github.io/" target="_blank" rel="noopener noreferrer">庞贝堡垒</a>
 </p>
 
-
-
-- I know nothing about MOBA games, but I like some 
 - 👨‍💻 Master student at the University of Science and Technology of China, majoring in CS
 - 💡 Research focus on: cv, LLMs, MLLMs, AIGC, NVS(NeRF/3DGS)
 - 🎧 Enjoys listening to music, with a diverse taste that includes Mandarin, Cantonese, English, Japanese, and instrumental music
 - 📸 Loves photography, cherishing the feeling of capturing the beauty before my eyes
 - 🎮 A gaming enthusiast, clueless about MOBA, but enjoys card games (Hearthstone), 3A (FF) or FPS games (Overwatch)
 - 👀 See my [blog](https://baoblei.github.io/) to learn more...
-
-
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=baoblei" alt="baoblei" /></a> </p>
