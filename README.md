@@ -16,6 +16,7 @@
 - 🎧 Enjoys listening to music, with a diverse taste that includes Mandarin, Cantonese, English, Japanese, and instrumental music
 - 📸 Loves photography, cherishing the feeling of capturing the beauty before my eyes
 - 🎮 A gaming enthusiast, clueless about MOBA, but enjoys card games (Hearthstone), 3A (FF) or FPS games (Overwatch)
+- 👀 See my [blog](https://baoblei.github.io/) to learn more...
 
 
 
@@ -48,14 +49,6 @@
   <!-- Vim -->
   <a href="https://www.vim.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/>
-  </a>
-  <!-- TensorFlow -->
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
-  <!-- Hugging Face -->
-  <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/huggingface/logos/main/assets/huggingface_logo.svg" alt="huggingface" width="40" height="40"/>
   </a>
 </p>
 
