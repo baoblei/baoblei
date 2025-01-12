@@ -14,7 +14,7 @@
 - 🎧 Enjoys listening to music, with a diverse taste that includes Mandarin, Cantonese, English, Japanese, and instrumental music
 - 📸 Loves photography, cherishing the feeling of capturing the beauty before my eyes
 - 🎮 A gaming enthusiast, clueless about MOBA, but enjoys card games (Hearthstone), 3A (FF) or FPS games (Overwatch)
-- 👀 See my [blog](https://baoblei.github.io/) (blog.pompeii.work) to learn more...
+- 👀 See my [blog](https://baoblei.github.io/) [blog.pompeii.work](blog.pompeii.work) to learn more...
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=baoblei" alt="baoblei" /></a> </p>
