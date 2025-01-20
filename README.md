@@ -10,7 +10,7 @@
 </p>
 
 - 👨‍💻 Master student at the University of Science and Technology of China, majoring in CS
-- 💡 Research focus on: cv, LLMs, MLLMs, AIGC, NVS(NeRF/3DGS)
+- 💡 Research focus on: CV, LLMs, MLLMs, AIGC, NVS(NeRF/3DGS)
 - 🎧 Enjoys listening to music, with a diverse taste that includes Mandarin, Cantonese, English, Japanese, and instrumental music
 - 📸 Loves photography, cherishing the feeling of capturing the beauty before my eyes
 - 🎮 A gaming enthusiast, clueless about MOBA, but enjoys card games (Hearthstone), 3A (FF) or FPS games (Overwatch)
